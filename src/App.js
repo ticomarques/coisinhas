@@ -1,10 +1,10 @@
-import { InputLabelAnimated } from "./Components/InputLabelAnimated/InputLabelAnimated";
+import { InputLineAnimated } from "./Components/InputLineAnimated/InputLineAnimated";
 
 const App = () => {
   return (
     <div>
       <h1>Iniciar projeto</h1>
-      <InputLabelAnimated />
+      <InputLineAnimated />
     </div>
   );
 }
